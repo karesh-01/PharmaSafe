@@ -8,7 +8,7 @@ supply chain tampering. The blockchain technology was employed. Two parties' tra
 like blockchain. 
 
 Blockchains are transparent, decentralized, distributed, and unchangeable, which makes them an ideal solution for the problem of fake medications. In 
-this paper, a system for secure distribution of pharmaceuticals along the whole supply chain is proposed. Using an event request-response method, each product within 
+this project, a system for secure distribution of pharmaceuticals along the whole supply chain is proposed. Using an event request-response method, each product within 
 the chain can be transferred between chain associates who have been verified. Smart contracts are used to record all transactions between entities into the blockchain,
 allowing a product to be tracked back to its source. The React Framework is utilized to create a DApp. The smart contracts were implemented on a regional blockchain 
 that Ganache offered. The Truffle framework and Web3.js is used to connect the DApp to the blockchain. The results of the experiments demonstrate that our technique is
